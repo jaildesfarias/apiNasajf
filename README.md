@@ -7,7 +7,7 @@ Link da API: [https://api.nasa.gov/](https://api.nasa.gov/)
 
 - Razão da Escolha: A API da NASA oferece uma rica fonte de informações sobre o espaço e é amplamente acessível.
 - Parâmetro de Busca: Permite filtrar as imagens com base em critérios específicos.
-- Resultado Esperado: As informações detalhadas da imagem, incluindo título, explicação é a própria imagem.
+- Resultado Esperado: As informações detalhadas da imagem, explicação é a própria imagem.
 
 ## Como Executar
 
